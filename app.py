@@ -11,7 +11,7 @@ import streamlit as st
 
 
 
-loaded_model = pickle.load(open("C:/Users/amits/Desktop/Diabetes/diabetes_model.sav",'rb'))
+loaded_model = pickle.load(open("diabetes_model.sav",'rb'))
 
 
 
