@@ -1,1 +1,1 @@
-[# diabetesappheroku](https://diabetesstreamlit.herokuapp.com/)
+https://diabetesstreamlit.herokuapp.com/
